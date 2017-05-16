@@ -1,0 +1,30 @@
+c:\users\кораблеви\documents\visual studio 2015\Projects\testProcWFA\testProcWFA\bin\Debug\testProcWFA.exe.config
+c:\users\кораблеви\documents\visual studio 2015\Projects\testProcWFA\testProcWFA\bin\Debug\testProcWFA.exe
+c:\users\кораблеви\documents\visual studio 2015\Projects\testProcWFA\testProcWFA\bin\Debug\testProcWFA.pdb
+c:\users\кораблеви\documents\visual studio 2015\Projects\testProcWFA\testProcWFA\obj\Debug\testProcWFA.csprojResolveAssemblyReference.cache
+c:\users\кораблеви\documents\visual studio 2015\Projects\testProcWFA\testProcWFA\obj\Debug\testProcWFA.Form1.resources
+c:\users\кораблеви\documents\visual studio 2015\Projects\testProcWFA\testProcWFA\obj\Debug\testProcWFA.Properties.Resources.resources
+c:\users\кораблеви\documents\visual studio 2015\Projects\testProcWFA\testProcWFA\obj\Debug\testProcWFA.csproj.GenerateResource.Cache
+c:\users\кораблеви\documents\visual studio 2015\Projects\testProcWFA\testProcWFA\obj\Debug\testProcWFA.exe
+c:\users\кораблеви\documents\visual studio 2015\Projects\testProcWFA\testProcWFA\obj\Debug\testProcWFA.pdb
+G:\C#\testProcWFA\testProcWFA\testProcWFA\bin\Debug\testProcWFA.exe.config
+G:\C#\testProcWFA\testProcWFA\testProcWFA\obj\Debug\testProcWFA.exe
+G:\C#\testProcWFA\testProcWFA\testProcWFA\obj\Debug\testProcWFA.pdb
+G:\C#\testProcWFA\testProcWFA\testProcWFA\bin\Debug\testProcWFA.exe
+G:\C#\testProcWFA\testProcWFA\testProcWFA\bin\Debug\testProcWFA.pdb
+G:\C#\testProcWFA\testProcWFA\testProcWFA\obj\Debug\testProcWFA.csprojResolveAssemblyReference.cache
+G:\C#\testProcWFA\testProcWFA\testProcWFA\obj\Debug\testProcWFA.Form1.resources
+G:\C#\testProcWFA\testProcWFA\testProcWFA\obj\Debug\testProcWFA.Properties.Resources.resources
+G:\C#\testProcWFA\testProcWFA\testProcWFA\obj\Debug\testProcWFA.csproj.GenerateResource.Cache
+C:\Users\V\Desktop\testProcWFA\testProcWFA\bin\Debug\testProcWFA.exe.config
+C:\Users\V\Desktop\testProcWFA\testProcWFA\bin\Debug\testProcWFA.exe
+C:\Users\V\Desktop\testProcWFA\testProcWFA\bin\Debug\testProcWFA.pdb
+C:\Users\V\Desktop\testProcWFA\testProcWFA\obj\Debug\testProcWFA.csprojResolveAssemblyReference.cache
+C:\Users\V\Desktop\testProcWFA\testProcWFA\obj\Debug\testProcWFA.Form1.resources
+C:\Users\V\Desktop\testProcWFA\testProcWFA\obj\Debug\testProcWFA.Properties.Resources.resources
+C:\Users\V\Desktop\testProcWFA\testProcWFA\obj\Debug\testProcWFA.csproj.GenerateResource.Cache
+C:\Users\V\Desktop\testProcWFA\testProcWFA\obj\Debug\testProcWFA.exe
+C:\Users\V\Desktop\testProcWFA\testProcWFA\obj\Debug\testProcWFA.pdb
+C:\Users\V\Documents\GitHub\DOTnet\testProcWFA\testProcWFA\bin\Debug\testProcWFA.exe.config
+C:\Users\V\Documents\GitHub\DOTnet\testProcWFA\testProcWFA\obj\Debug\testProcWFA.exe
+C:\Users\V\Documents\GitHub\DOTnet\testProcWFA\testProcWFA\obj\Debug\testProcWFA.pdb
